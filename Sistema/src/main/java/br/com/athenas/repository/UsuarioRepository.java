@@ -1,18 +1,19 @@
-package br.com.ciceroednilson.repository;
+package br.com.athenas.repository;
 
 import java.util.List;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.PersistenceContextType;
+
 import org.springframework.stereotype.Repository;
 
-import br.com.ciceroednilson.model.UsuarioModel;
+import br.com.athenas.model.UsuarioModel;
 
 /**
- * @author: cicero.ednilson
+ * @author: tmeinel
  * 
- * CLASSE QUE VAI REALIZAR A PERSISTÊNCIA DO NOSSO OBJETO UsuarioModel NO BANCO DE DADOS.
+ * CLASSE QUE VAI REALIZAR A PERSISTÊNCIA DO OBJETO UsuarioModel NO BANCO DE DADOS.
  * 
  * 
  */

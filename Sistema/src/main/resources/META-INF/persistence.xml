@@ -4,7 +4,7 @@
   <persistence-unit name="PERSISTENCE_UNIT" transaction-type="RESOURCE_LOCAL">
     <!-- entidade mapeada -->
     <provider>org.hibernate.ejb.HibernatePersistence</provider>
-            <class>br.com.ciceroednilson.model.UsuarioModel</class>
+            <class>br.com.athenas.model.UsuarioModel</class>
     <properties>
         <!-- dados da conexao -->
         <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>

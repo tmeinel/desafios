@@ -1,4 +1,4 @@
-package br.com.ciceroednilson.controller;
+package br.com.athenas.controller;
 
 import java.util.List;
 
@@ -11,13 +11,13 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
-import br.com.ciceroednilson.model.ResultadoModel;
-import br.com.ciceroednilson.model.UsuarioModel;
-import br.com.ciceroednilson.repository.UsuarioRepository;
+import br.com.athenas.model.ResultadoModel;
+import br.com.athenas.model.UsuarioModel;
+import br.com.athenas.repository.UsuarioRepository;
 
 /**
  * 
- * @author cicero.ednilson
+ * @author tmeinel
  *
  *Essa é a classe que o Spring vai gerenciar (Controller para o usuário)
  *

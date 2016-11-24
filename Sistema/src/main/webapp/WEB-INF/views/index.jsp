@@ -1,9 +1,7 @@
 <html>
 <body>
-<h1>http://ciceroednilson.com.br</h1>
 <br/>
-<br/>
-<h2>Spring MVC e AngularJS</h2>
+<h3>Spring MVC e AngularJS</h3>
 
 <ul style="list-style-type:square">
   <li><a href="usuario/cadastrar.html">Cadastrar</a></li>
